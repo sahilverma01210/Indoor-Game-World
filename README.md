@@ -1,6 +1,12 @@
 # Indoor Game World
 Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Universal Render Pipeline (URP) for Android.
 
+# Games Included
+* Chess
+* Carrom
+* Ludo
+* Snake & Ladder
+
 # Packages &amp; Libraries Used
 * Universal RP
 * ARCore XR Plugin
