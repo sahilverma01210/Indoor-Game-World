@@ -1,7 +1,7 @@
-# Indoor-Game-World
+# Indoor Game World
 Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Universal Render Pipeline (URP) for Android.
 
-# Packages Used
+# Packages &amp; Libraries Used
 * Universal RP
 * ARCore XR Plugin
 * AR Foundation
@@ -10,6 +10,7 @@ Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Univ
 * Web Socket Sharp (from NuGet Gallery)
 * Newtonsoft JSON
 * JSONSerialize
+* Node JS
 
 # Other Packages Used
 * Particle System
