@@ -52,7 +52,7 @@ Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Univ
 * Ludo
 * Snake & Ladder
 
-# Packages &amp; Libraries Used
+# Package &amp; Library Dependencies
 * Universal RP
 * ARCore XR Plugin
 * AR Foundation
@@ -63,7 +63,7 @@ Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Univ
 * JSONSerialize
 * Node JS
 
-# Other Packages Used
+# Other Package Dependencies
 * Particle System
 * Text Mesh Pro
 * Unity UI
