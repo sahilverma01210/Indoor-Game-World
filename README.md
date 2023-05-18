@@ -4,7 +4,7 @@
   <img width="300" src="https://github.com/svhapp0249/Indoor-Game-World/blob/main/Images/0.%20App%20Icon.png">
 </p>
 
-Casual 3D &amp; 3D Augmented Reality Multiplayer Game made with Unity using Universal Render Pipeline (URP) for Android.
+Augmented Reality Multiplayer Casual 3D Game made with Unity using Universal Render Pipeline (URP) for Android.
 
 <details>
   <summary>Welcome Screen & Portal to Virtual and Real World (AR)</summary><br>
